@@ -1,4 +1,4 @@
-//Grouped with Vikrantsinh Karande.
+//Name: Pritesh Jagani
 
 #include <stdio.h>
 #include <stdlib.h>
