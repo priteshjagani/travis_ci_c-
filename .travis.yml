@@ -2,5 +2,4 @@ language: c++
 compiler:
   - clang
   - gcc
-script:
- scons add.cpp
+script: scons add.cpp
