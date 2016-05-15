@@ -2,4 +2,4 @@ language: c++
 compiler:
   - clang
   - gcc
-script: g++ Test.cpp
+script: g++ add.cpp
