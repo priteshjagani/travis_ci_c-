@@ -3,6 +3,6 @@
 
 # This is demo to test if the Travis_ci works for C++ 
 
-## This example add two numbers and check if it builds without any error.
+### This example add two numbers and check if it builds without any error.
 
 
